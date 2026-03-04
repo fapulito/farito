@@ -3,6 +3,8 @@
 
 ## Farito v1.0 — Open Beta Release Notes
 
+<img width="500" height="225" alt="farito-alpha" src="https://github.com/user-attachments/assets/83cb9af5-62a3-485f-800b-f5ad04ff97bc" />
+
 **Release Date:** March 4, 2026  
 **Publisher:** California Vision, Inc.  
 **Status:** Open Beta — Active Development
