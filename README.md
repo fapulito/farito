@@ -1,7 +1,7 @@
 # Farito Notizia Project
 ### Multiplatform Broadcast in Kotlin | Android App 
 
-## Farito v1.0 — Open Beta Release Notes
+## Farito v0.2 — Open Beta Release Notes
 
 <img width="500" height="225" alt="farito-alpha" src="https://github.com/user-attachments/assets/83cb9af5-62a3-485f-800b-f5ad04ff97bc" />
 
